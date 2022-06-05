@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/upload to github/app/src/main/res/drawable/bg_clear.xml" value="0.205" />
+        <entry key="..\:/upload to github/app/src/main/res/drawable/bg_general.xml" value="0.205" />
+        <entry key="..\:/upload to github/app/src/main/res/drawable/bg_oparator.xml" value="0.205" />
+        <entry key="..\:/upload to github/app/src/main/res/layout/activity_main.xml" value="0.23489583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
